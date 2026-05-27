@@ -1,0 +1,17 @@
+{
+  "id": "DSP_AnalogDevices/ADAU1701:ADAU1701",
+  "name": "ADAU1701",
+  "library": "DSP_AnalogDevices",
+  "file": "DSP_AnalogDevices.kicad_symdir/ADAU1701.kicad_sym",
+  "description": "SigmaDSP 28-/56-Bit Audio Processor with Two ADCs and Four DACs, 50 MIPS, 1kword Program RAM, 2kword Data RAM, LQFP-48",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADAU1701.pdf",
+  "keywords": "sigmadsp audio adc dac",
+  "footprint": "Package_QFP:LQFP-48_7x7mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-dsp-analogdevices@master/parts/ADAU1701/",
+  "part_path": "parts/ADAU1701",
+  "symbol_file": "parts/ADAU1701/ADAU1701.kicad_sym",
+  "source_library": "DSP_AnalogDevices.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:32.241Z"
+}
